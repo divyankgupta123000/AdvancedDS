@@ -76,5 +76,5 @@ class Knoderev
   
         System.out.println("Reversed list"); 
         llist.printList(); 
-    } 
+    }
 }
