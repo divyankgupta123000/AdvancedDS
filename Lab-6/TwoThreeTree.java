@@ -335,7 +335,6 @@ public class TwoThreeTree
                 if (current.isBalanced()) isBalanced = true;
             }
         }
-
         return ifRemoved;
     }
 
